@@ -15,9 +15,6 @@ Projeto desenvolvido para avaliação no 3º semestre do tecnólogo de Análise 
 ### Menu:
 ![menu](https://github.com/xyaanz/Step-Cloud/blob/main/Screenshots/menu.png?raw=true)
 
-### Filtro:
-![filter](https://github.com/xyaanz/Step-Cloud/blob/main/Screenshots/filter_results.png?raw=true)
-
 ### Resultados:
 ![results](https://github.com/xyaanz/Step-Cloud/blob/main/Screenshots/filter_results.png?raw=true)
 
